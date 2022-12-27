@@ -1,0 +1,24 @@
+* {
+    box-sizing: border-box;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 70px;
+
+}
+
+main img {
+    width: 400px;
+    height: 400px;
+    margin: 0 auto;
+}
+
+.galery {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    height: 300px;
+    margin: 100px;
+}
